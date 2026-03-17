@@ -1,0 +1,4 @@
+[submodule "lf-ml-compare-tools"]
+	path = lf-ml-compare-tools
+	url = https://github.com/wucong25/lf-ml-compare-tools.git
+	branch = master
